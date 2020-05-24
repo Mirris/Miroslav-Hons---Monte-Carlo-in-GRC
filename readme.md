@@ -10,7 +10,7 @@ Following instructions will let you know how to run and modify the code.
 
 ### Prerequisites
 
-Following python modules (if not already part of host modules) have to installed to successfully run the code:
+Following python modules (if not already part of host modules) have to be installed to successfully run the code:
 
 ```
 random
@@ -24,7 +24,7 @@ prettytable
 
 ### Running the code
 
-Without any given parametrs, the code is run as follows:
+Without any given parametrs, the code is activated as follows:
 
 ```
 python .\GRCRollProbability.py
@@ -32,15 +32,15 @@ python .\GRCRollProbability.py
 
 ## Code modifications
 
-To modify parameters of Monte Carlo simmulation, following fields have to be considered:
+To modify "parameters" of Monte Carlo simmulation, following fields have to be considered:
 
 ```
-* **random.seed(0)**		- commenting this random function will turn the randomizer to pseudo-random mode
-* **loan_cap**			- number of single loans iterations within 1 cycle
-* **cycles_counter**		- number of cycles in estimating innovations performance
-* **loan_size**			- value of average loan
-* **glob_loan_units_distr**	- represents a "unit loans" distribution within observed years
-* **ass_distrib_iteration**	- number of iterations for modelling values performance
+random.seed(0)			- uncommenting this random function will turn the randomizer to pseudo-random mode
+loan_cap				- number of single loans iterations within 1 cycle
+cycles_counter			- number of cycles in estimating innovations performance
+loan_size				- value of average loan
+glob_loan_units_distr	- represents a "unit loans" distribution within observed years
+ass_distrib_iteration	- number of iterations for modelling innovations' performance
 ```
 
 ## Built With
