@@ -34,16 +34,16 @@ To modify parameters of Monte Carlo simmulation, following fields have to be con
 
 ```
 * **random.seed(0)**		- commenting this random function will turn the randomizer to pseudo-random mode
-* **loan_cap**				- number of single loans iterations within 1 cycle
+* **loan_cap**			- number of single loans iterations within 1 cycle
 * **cycles_counter**		- number of cycles in estimating innovations performance
-* **loan_size**				- value of average loan
+* **loan_size**			- value of average loan
 * **glob_loan_units_distr**	- represents a "unit loans" distribution within observed years
 * **ass_distrib_iteration**	- number of iterations for modelling values performance
 ```
 
 ## Built With
 
-* [PyCharm EDU v.2020.1](https://blog.jetbrains.com/pycharm/2020/04/pycharm-2020-1-out-now/) - Integrated python SDK.
+* [PyCharm EDU v.2020.1](https://blog.jetbrains.com/pycharm/2020/04/pycharm-2020-1-out-now/) - integrated Python SDK.
 
 
 ## Versioning
