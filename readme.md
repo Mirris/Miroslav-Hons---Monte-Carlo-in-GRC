@@ -41,8 +41,8 @@ cycles_counter		- number of cycles in estimating innovations performance
 loan_size		- value of average loan
 glob_loan_units_distr	- represents a "unit loans" distribution within observed years
 ass_distrib_iteration	- number of iterations for modelling innovations' performance
-avg_a_success_rate		- average success rate of Innovation 1
-avg_b_success_rate		- average success rate of Innovation 2
+avg_a_success_rate	- average success rate of Innovation 1 (to be a subject of change)
+avg_b_success_rate	- average success rate of Innovation 2 (to be a subject of change)
 ```
 
 ## Built With
