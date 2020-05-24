@@ -35,10 +35,10 @@ python .\GRCRollProbability.py
 To modify "parameters" of Monte Carlo simmulation, following fields have to be considered:
 
 ```
-random.seed(0)			- uncommenting this random function will turn the randomizer to pseudo-random mode
-loan_cap				- number of single loans iterations within 1 cycle
-cycles_counter			- number of cycles in estimating innovations performance
-loan_size				- value of average loan
+random.seed(0)		- uncommenting this random function will turn the randomizer to pseudo-random mode
+loan_cap		- number of single loans iterations within 1 cycle
+cycles_counter		- number of cycles in estimating innovations performance
+loan_size		- value of average loan
 glob_loan_units_distr	- represents a "unit loans" distribution within observed years
 ass_distrib_iteration	- number of iterations for modelling innovations' performance
 ```
