@@ -1,6 +1,8 @@
 # Sample of Monte Carlo simulation within GRC
 
-This scipt has been created to support original assumptions of author to demonstrate probability calculations of Key Risk Indicators crystalizing from process innovations. Sampled code represents loans assets distribugion in banking industry from two competitive offers of process innovations. First part of code is dedicated to search for mean and standard deviation in estimating single loan probability of operating success or failure. Second part of code uses probability of operational success and runs a 3 year performance simulation, providing estimated assets throughput of each proposed innovation model.
+This scipt has been created to support original assumptions of author to demonstrate probability calculations of Key Risk Indicators crystalizing from process innovations. Sampled code represents loans assets distribution in banking industry, while evaluating two competitive offers of process innovations.
+* First part of code is dedicated to search for mean and standard deviation in estimating single loan probability of operating success or failure.
+* Second part of code uses probability of operational success and runs a 3 year performance simulation. Simuation is finalised with provided estimates on assets throughput distribution of each proposed innovation model.
 
 ## Getting Started
 
