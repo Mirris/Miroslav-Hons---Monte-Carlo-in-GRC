@@ -68,5 +68,7 @@ This project is licensed under the MIT License
 Code has been provided in state of "as is" and "as available" and doesn't assure user with any author's responsibility by downloading and running the code.
 
 **1. Redistribution** - redistribution of the code is permitted, as followed by [GitHub T&Cs](https://help.github.com/en/github/site-policy/github-terms-of-service).
+
 **2. Names of contributors** - names of contributors may not be used in recognition or promotion of code from this repository.
+
 **3. Usage** - Methods and information provided within code are for illustratory purpose only. Usage of code in real environment provides no varanties of reliability, completeness or accuracy. Actions taken by using a code of this repository are, therefore, at full user's risk.
