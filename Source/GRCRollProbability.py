@@ -237,10 +237,10 @@ def insurance_sell_risk(inno):
 
     # to implement penaliser at cross-sell 22.5%
     roll = roll_random(1, 200)
-    if inno == 'a' and roll <= 148:
+    if inno == 'a' and roll <= 162:
         counter_a_insurance_risk += 1
         return True
-    elif inno == 'b' and roll <= 152:
+    elif inno == 'b' and roll <= 158:
         counter_b_insurance_risk += 1
         return True
     else:
